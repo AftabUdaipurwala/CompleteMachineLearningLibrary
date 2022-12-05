@@ -7,3 +7,5 @@ machine learning algo defined
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AftabUdaipurwala&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=AftabUdaipurwala)
